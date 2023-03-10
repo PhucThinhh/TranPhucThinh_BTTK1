@@ -1,0 +1,39 @@
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#left_menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+#right_menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+#logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+#Text {
+    text-align: center;
+}
+
+#banner {}
